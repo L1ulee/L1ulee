@@ -12,16 +12,18 @@
 
 ### Skill
 
-- ⚔🛡Primary Penetration Testing Engineer
-- ☕Java Amateurs
-- 🐛Screeper
+> - ⚔🛡Primary Penetration Testing Engineer
+> - ☕Java Amateurs
+> - 🐛Screeper
+>
 
 
 
 #### Language Skill
 
-- ✨Java 
-- ✨Python
-- PHP
-- JavaScript
-- Mysql
+> - ✨Java 
+> - ✨Python
+> - PHP
+> - JavaScript
+> - Mysql
+
