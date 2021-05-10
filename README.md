@@ -3,6 +3,8 @@
 ### Hi there😉，I am [L1ulee](https://github.com/L1ulee)!
 
 > A Penetration Testing Engineer and Java Amateurs
+>
+> Also like Anime**(老二刺猿了)**
 
 ### Where to Find me?
 
@@ -15,7 +17,6 @@
 > - ⚔🛡Primary Penetration Testing Engineer
 > - ☕Java Amateurs
 > - 🐛Screeper
->
 
 
 
