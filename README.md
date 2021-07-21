@@ -4,7 +4,7 @@
 
 > A Penetration Testing Engineer and Java Amateurs
 >
-> Also like Anime**(老二刺猿了)**
+> Also like Anime(老二刺猿了)
 
 ### Where to Find me?
 
