@@ -1,6 +1,10 @@
 
 
-### Hi there😉，I am [L1ulee](https://github.com/L1ulee)!
+### Hi there😉,I am [L1ulee](https://github.com/L1ulee)!
+
+🌚 A rookie for study penetration test,Study harder to be better.
+
+👴 Wanna Engage in CyberSecurity.
 
 ### Where to Find me?
 
@@ -10,17 +14,14 @@
 
 ### Skill
 
-> - ⚔🛡Primary Penetration Testing Engineer
-> - ☕Java Amateurs
+> - ⚔🛡Penetration Testing Engineer (Study From 2021)
+> - ☕Java Amateurs (Study From 2020)
 
 
 
 #### Language Skill
 
 > - ✨Java 
-> - ~~✨Python~~
-> - ~~C++~~
-> - ~~PHP~~
-> - ~~JavaScript~~
-> - ~~Mysql~~
-
+> - JavaScript
+> - Python
+> - PHP
