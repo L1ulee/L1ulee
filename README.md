@@ -39,7 +39,7 @@ And wanna do some cool things 😎!
 </p>
 
 ### Where to Find me?
-[![Discord](https://img.shields.io/discord/778637533461348374?color=pink&label=Firstwood&logo=Discord&logoColor=pink&style=social)](https://discord.gg/SXtgf3C85d) [![Blog](https://img.shields.io/badge/Blog-L1ulee's%20Blog-pink?style=social&logo=hexo)](http://blog.firstwood.cc)
+[![Discord](https://img.shields.io/discord/778637533461348374?color=pink&label=Firstwood&logo=Discord&logoColor=pink&style=social)](https://discord.gg/SXtgf3C85d) [![Blog](https://img.shields.io/badge/Blog-L1ulee's%20Blog-pink?style=social&logo=hexo)](http://blog.2sec.io)
 
 ### Stats
 
