@@ -8,6 +8,8 @@
 
 📖 I'm currently learning Java,Go,Python.
 
+🤖 Now trying full Vibe coding...
+
 And wanna do some cool things 😎!
 
 ### Languages(Still learning...)
